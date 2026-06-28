@@ -1,3 +1,1 @@
-CS + AI @Northeastern
 
-<!--
